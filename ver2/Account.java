@@ -3,6 +3,7 @@ package ver2;
 public class Account {
 	// Instance variable, only available inside this class.
 	private double balance;
+	//New Comment for balance
 	private String name;
 	public Account(double balance) {
 		this("Unknown", balance);
